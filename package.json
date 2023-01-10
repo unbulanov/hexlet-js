@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/unbulanov/hexlet-js.git"
   },
-  "author": "",
+  "author": "stanislav bulanov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/unbulanov/hexlet-js/issues"
